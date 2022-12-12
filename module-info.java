@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ianbl
- *
- */
-module lo {
-}
